@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/Nordstrom/hello-retail-workshop/Lesson3_PublicEndpointToAccessView#readme",
   "dependencies": {
-    "ajv": "^4.10.4"
+    "ajv": "^6.12.3"
   },
   "repository": "."
 }
